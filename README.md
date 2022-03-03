@@ -1,7 +1,7 @@
 # Neoplasticismo: Mondrian con CSS Grid
 El objetivo de este ejercicio es realizar un cuadro de Mondrian con tecnologías web y que sea responsive. Para ello, se utilizará CSS Grid y mediaqueries siguiendo el diseño propuesto para las diferentes medidas.
 
-![image](https://user-images.githubusercontent.com/91197522/156637685-d30228cf-afdf-4614-8470-49b43bd0bd34.png)
+![image](https://user-images.githubusercontent.com/91197522/156638135-654b6072-c51f-4663-ba9b-ffa92612fee4.png)
 
 
 ## Desktop
